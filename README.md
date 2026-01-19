@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Mohammad Joma
 
 💻 **Computer Systems Engineer | Full Stack Developer**  
-Specialized in designing, developing, and integrating efficient computer-based systems with a focus on full stack development using Python and MySQL.
+Specialized in designing, developing, and integrating efficient computer-based systems with a focus on full stack development using JavaScript , Python and MySQL.
 
 ---
 
