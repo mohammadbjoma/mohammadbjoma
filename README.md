@@ -48,5 +48,5 @@ Specialized in designing, developing, and integrating efficient computer-based s
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammad-qadomi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-qadomi)
 [![Gmail](https://img.shields.io/badge/Gmail-engmohamadjoma@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engmohamadjoma@gmail.com)
